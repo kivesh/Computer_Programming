@@ -1,4 +1,7 @@
 import java.util.HashMap;
+import java.util.Set;
+import java.util.Map;
+
 public class HashMapApp {
 
 	public static void main(String[] args) {
